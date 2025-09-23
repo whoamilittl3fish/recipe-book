@@ -16,3 +16,7 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+
+# Guacamole recipe
+
+This is an exercise repository.
