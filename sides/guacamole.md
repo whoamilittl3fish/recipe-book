@@ -3,7 +3,7 @@
 
 ## Ingredients
 
-- 2 tbsp cilantro
+- 1 tbsp cilantro
 - 2 avocados
 - 1 chili
 - 1 lime
