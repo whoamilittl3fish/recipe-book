@@ -20,3 +20,4 @@
 - to spread butter and pate inside baguette
 - put fry egg on the butter and pate
 - put some salad
+- to pour a bit of fish sauce along the soft part of baguette
