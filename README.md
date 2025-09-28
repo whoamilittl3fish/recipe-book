@@ -17,7 +17,3 @@ towards the template repository.
 - [sides](sides)
 - [desserts](desserts)
 - [fastfoodVietNam](fastfoodVietnam).
-
-# Guacamole recipe
-
-This is an exercise repository.
