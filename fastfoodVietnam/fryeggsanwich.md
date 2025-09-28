@@ -12,6 +12,7 @@
 - butter
 - pate
 - salad
+- fish sauce
 
 ## Instruction
 
