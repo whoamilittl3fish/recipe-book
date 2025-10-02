@@ -1,6 +1,6 @@
 # bread with fried egg (banh mi op la)
 
-## prepartion
+## preparation
 
 - shape the loaf and bake it into bread
 
