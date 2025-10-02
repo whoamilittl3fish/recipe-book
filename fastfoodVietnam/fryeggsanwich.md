@@ -17,7 +17,7 @@
 ## Instruction
 
 - Fry sunny-side-up egg
-- Put cucumber slide into bread
+- Put cucumber slide and salad into bread
 - to spread butter and pate inside baguette
 - put fry egg on the butter and pate
 - put some salad
