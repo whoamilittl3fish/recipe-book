@@ -22,3 +22,4 @@
 - put fry egg on the butter and pate
 - put some salad
 - pour fish a bit sauce of fish along the soft part of the baguette
+- sprinkle pepper
